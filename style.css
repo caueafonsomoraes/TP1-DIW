@@ -1,0 +1,44 @@
+.carousel-inner img{
+    height: 400px;
+}
+
+.imagems{
+    height: 250px;
+    width: 300px;
+    border-radius: 30%;
+}
+
+.img1{
+    height: 350px;
+    width: 350px;
+}
+
+.img2{
+    height: 50px;
+    width: 50px;
+}
+
+.tituloSecao{
+    font-size: xx-large;   
+}
+
+.subtituloSecao{
+    color:darkturquoise;
+    font-size: large;
+}
+
+.perfil{
+    font-size:x-large;
+}
+
+.repositorios{
+    font-size:x-large;
+}
+
+.conteudos{
+    font-size: x-large;
+}
+
+.colegas{
+    font-size: x-large;
+}
